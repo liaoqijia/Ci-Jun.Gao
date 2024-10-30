@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "The good, the bad, and the red: implicit color-valence associations across cultures"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-psychological-research-color-valence
+excerpt: 'This paper explores implicit associations between colors and valence across different cultures, focusing on how colors like red may carry varying positive and negative connotations worldwide.'
+date: 2023-04-01  # Adjust if there is a more specific publication date
+venue: 'Psychological Research'
+slidesurl: 'http://academicpages.github.io/files/slides-color-valence.pdf'
+paperurl: 'https://doi.org/10.1007/s00426-022-01697-5'
+citation: 'Kawai, C., Zhang, Y., Lukács, G., et al. (2023). "The good, the bad, and the red: implicit color-valence associations across cultures." <i>Psychological Research</i>, 87, 704–724. https://doi.org/10.1007/s00426-022-01697-5.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This study investigates how different cultures implicitly associate certain colors with positive or negative valences. By examining the color red, among others, the authors highlight how color perception and emotional associations vary significantly between cultural contexts, revealing underlying psychological and societal patterns.
+
+For more details on the methodology and results, view the [slides](http://academicpages.github.io/files/slides-color-valence.pdf) or access the full [paper](https://doi.org/10.1007/s00426-022-01697-5).
